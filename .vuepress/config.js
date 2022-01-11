@@ -1,6 +1,6 @@
 module.exports = {
   "title": "禅房花木",
-  "description": "1",
+  "description": "你简单，世界就对你简单。",
   "dest": "public",
   "head": [
     [
@@ -38,9 +38,9 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "随笔",
+        "text": "留言板",
         "icon": "reco-message",
-        link: '/docs/anything'
+        link: '/docs/theme-reco/message.md'
       },
       {
         "text": "Contact",
@@ -55,12 +55,12 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
-      ]
+      // "/docs/theme-reco/": [
+      //   "",
+      //   "theme",
+      //   "plugin",
+      //   "api"
+      // ]
     },
     "type": "blog",
     "blogConfig": {

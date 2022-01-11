@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 禅房花木
+tagline: 你简单，世界就对你简单。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
