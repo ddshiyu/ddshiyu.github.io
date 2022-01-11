@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "home",
+  "title": "禅房花木",
   "description": "1",
   "dest": "public",
   "head": [
@@ -20,6 +20,12 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
+    mode: 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
+    valineConfig: {
+      appId: 'xaGXSjewuzULHEOanpcFJNMA-gzGzoHsz',// your appId
+      appKey: 'IIMQuME3Ie8ryBzFObAabjs8', // your appKey
+    },
     "nav": [
       {
         "text": "主页",
@@ -34,12 +40,7 @@ module.exports = {
       {
         "text": "随笔",
         "icon": "reco-message",
-        "items": [
-          {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          }
-        ]
+        link: '/docs/anything'
       },
       {
         "text": "Contact",
@@ -65,11 +66,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "分类"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签"
       }
     },
     "friendLink": [

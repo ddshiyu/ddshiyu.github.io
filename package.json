@@ -4,7 +4,9 @@
   "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "./deploy.sh",
+    "push": "./push.sh"
   },
   "devDependencies": {
     "vuepress": "1.8.2",
