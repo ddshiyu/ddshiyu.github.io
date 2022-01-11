@@ -40,7 +40,17 @@ module.exports = {
       {
         "text": "留言板",
         "icon": "reco-message",
-        link: '/docs/theme-reco/message.md'
+        link: '/docs/nav/message.md'
+      },
+      // {
+      //   "text": "随笔",
+      //   "icon": "reco-suggestion",
+      //   link: '/docs/nav/message.md'
+      // },
+      {
+        "text": "关于",
+        "icon": "reco-account",
+        link: '/docs/nav/about.md'
       },
       {
         "text": "Contact",
@@ -55,12 +65,12 @@ module.exports = {
       }
     ],
     "sidebar": {
-      // "/docs/theme-reco/": [
-      //   "",
-      //   "theme",
-      //   "plugin",
-      //   "api"
-      // ]
+      "/docs/theme-reco/": [
+        "",
+        "theme",
+        "plugin",
+        "api"
+      ]
     },
     "type": "blog",
     "blogConfig": {
@@ -92,10 +102,69 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "jiandong",
-    "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "authorAvatar": "/mine.jpg",
+    "record": "禅房花木",
+    "startYear": "2021"
   },
+  plugins: [
+    [
+      '@vuepress-reco/vuepress-plugin-kan-ban-niang',{
+        theme: [
+          'blackCat',  'miku', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'z16'
+        ],
+        clean: false,
+        messages: { 
+          welcome: '欢迎来到我的博客', home: '心里的花，我想要带你回家。', theme: '好吧，希望你能喜欢我的其他小伙伴。', close: '你不喜欢我了吗？痴痴地望着你。' 
+        },
+        messageStyle: { left: '128px', bottom: '290px' },
+        modelStyle: { left: '90px', bottom: '-20px', opacity: '0.7' },
+        btnStyle: { left: '90px', bottom: '40px' },
+        clean: true,
+        width: 250,
+        height: 320
+      }
+    ],
+    ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+      title: '公告',
+      body: [
+        {
+          type: 'title',
+          content: '欢迎加我的博客 🎉🎉🎉',
+          style: 'text-aligin: center;',
+        },
+        {
+          type: 'text',
+          content: 'QQ：925843934',
+          style: 'text-align: center;'
+        },
+        {
+          type: 'text',
+          content: '喜欢的主题特效可以去个人信息',
+          style: 'text-align: center;'
+        },
+        {
+          type: 'text',
+          content: '友链或疑问均可在留言板给我留言',
+          style: 'text-align: center;'
+        }
+      ],
+      footer: [
+        {
+          type: 'button',
+          text: '留印',
+          link: '/docs/nav/message.html'
+        },
+      ]
+    }],
+    [
+      "vuepress-plugin-cursor-effects",
+      {
+        size: 3 ,                    // size of the particle, default: 2
+        shape: 'circle',  // shape of the particle, default: 'star'
+        zIndex: 999999999           // z-index property of the canvas, default: 999999999
+      }
+    ],
+  ],
   "markdown": {
     "lineNumbers": true
   }
