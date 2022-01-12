@@ -124,44 +124,65 @@ module.exports = {
         height: 320
       }
     ],
-    ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
-      title: '公告',
-      body: [
-        {
-          type: 'title',
-          content: '欢迎加我的博客 🎉🎉🎉',
-          style: 'text-aligin: center;',
-        },
-        {
-          type: 'text',
-          content: 'QQ：925843934',
-          style: 'text-align: center;'
-        },
-        {
-          type: 'text',
-          content: '喜欢的主题特效可以去个人信息',
-          style: 'text-align: center;'
-        },
-        {
-          type: 'text',
-          content: '友链或疑问均可在留言板给我留言',
-          style: 'text-align: center;'
-        }
-      ],
-      footer: [
-        {
-          type: 'button',
-          text: '留印',
-          link: '/docs/nav/message.html'
-        },
-      ]
-    }],
+    // ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+    //   title: '公告',
+    //   body: [
+    //     {
+    //       type: 'title',
+    //       content: '欢迎加我的博客 🎉🎉🎉',
+    //       style: 'text-aligin: center;',
+    //     },
+    //     {
+    //       type: 'text',
+    //       content: 'QQ：925843934',
+    //       style: 'text-align: center;'
+    //     },
+    //     {
+    //       type: 'text',
+    //       content: '喜欢的主题特效可以去个人信息',
+    //       style: 'text-align: center;'
+    //     },
+    //     {
+    //       type: 'text',
+    //       content: '友链或疑问均可在留言板给我留言',
+    //       style: 'text-align: center;'
+    //     }
+    //   ],
+    //   footer: [
+    //     {
+    //       type: 'button',
+    //       text: '留印',
+    //       link: '/docs/nav/message.html'
+    //     },
+    //   ]
+    // }],
     [
       "vuepress-plugin-cursor-effects",
       {
         size: 3 ,                    // size of the particle, default: 2
         shape: 'circle',  // shape of the particle, default: 'star'
         zIndex: 999999999           // z-index property of the canvas, default: 999999999
+      }
+    ],
+    [
+      "@vuepress-reco/vuepress-plugin-bgm-player",{
+        audios: [
+          // 本地文件示例
+          // {
+          //   name: '장가갈 수 있을까',
+          //   artist: '咖啡少年',
+          //   url: '/bgm/1.mp3',
+          //   cover: '/bgm/1.jpg'
+          // },
+          // 网络文件示例
+          {
+            name: `I'm Yours`,
+            artist: 'Jason Mraz',
+            url: `https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/I'm%20Yours%20(Album%20Version)_Jason%20Mraz.mp3`,
+            cover: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/2591641954357_.pic.jpg'
+          }
+        ],
+        autoShrink: true
       }
     ],
   ],
