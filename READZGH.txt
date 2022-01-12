@@ -6,11 +6,20 @@ categories:
  - 
 tags:
  - 
+---
 keys:
  - '123456'
 publish: false
 ---
+表格
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### 分类
 杂谈、书影、分享、游记、心情
 
 https://vuepress.vuejs.org/zh/guide/markdown.html
+https://list.yinxiang.com/markdown/eef42447-db3f-48ee-827b-1bb34c03eb83.php
