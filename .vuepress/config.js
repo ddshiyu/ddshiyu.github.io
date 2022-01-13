@@ -1,6 +1,7 @@
 module.exports = {
   "title": "禅房花木",
   "description": "你简单，世界就对你简单。",
+  // "base":"/public/", 静态资源路径
   "dest": "public",
   "head": [
     [
