@@ -19,7 +19,7 @@ publish: false
 | zebra stripes | are neat      |    $1 |
 
 ### 分类
-杂谈、书影、分享、游记、心情
+杂谈、书影、分享、游记、心情 好文 技术
 
 https://vuepress.vuejs.org/zh/guide/markdown.html
 https://list.yinxiang.com/markdown/eef42447-db3f-48ee-827b-1bb34c03eb83.php
