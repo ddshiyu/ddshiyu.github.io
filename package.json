@@ -17,5 +17,9 @@
     "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-theme-reco": "1.6.10"
   },
-  "description": "1"
+  "description": "1",
+  "dependencies": {
+    "vue-tabs-component": "^1.5.0",
+    "vuepress-plugin-tabs": "^0.3.0"
+  }
 }

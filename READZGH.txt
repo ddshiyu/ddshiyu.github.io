@@ -23,3 +23,14 @@ publish: false
 记录异想天开、记录观影阅读、记录分享相关技能（whatever）、记录旅游相关、记录技术相关、记录生活的感悟、记录吉他谱和视频录制、记录心情（候补）
 https://vuepress.vuejs.org/zh/guide/markdown.html
 https://list.yinxiang.com/markdown/eef42447-db3f-48ee-827b-1bb34c03eb83.php
+
+### Markdown 插件
+vuepress-plugin-demo-block // 代码块，可以编译代码
+vuepress-plugin-element-tabs // tab页
+vuepress-plugin-flowchart // 流程图
+
+::: theorem 牛顿第一定律
+假若施加于某物体的外力为零，则该物体的运动速度不变。
+::: right
+来自 [维基百科](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)
+:::
