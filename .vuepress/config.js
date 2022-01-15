@@ -3,6 +3,11 @@ module.exports = {
   "description": "你简单，世界就对你简单。",
   // "base":"/public/", 静态资源路径
   "dest": "public",
+  locales: {
+    '/': {
+        lang: 'zh-CN'
+    }
+  },
   "head": [
     [
       "link",
@@ -94,8 +99,14 @@ module.exports = {
       {
         "title": "vuepress-theme-reco",
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "thumbnail": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
+      },
+      {
+        title: '半落沙痕',
+        desc: 'Everything Wins！',
+        thumbnail: 'http://img.dracarys.top/avatar.jpg',
+        link: 'http://www.dracarys.top'
       }
     ],
     "logo": "/logo.png",
@@ -186,6 +197,16 @@ module.exports = {
         autoShrink: true
       }
     ],
+    [
+      "dynamic-title",
+      {
+        showIcon: "/favicon.ico",
+        showText: "(/≧▽≦/)咦！又好了！",
+        hideIcon: "/failure.ico",
+        hideText: "(●—●)喔哟，崩溃啦！",
+        recoverTime: 2000
+      }
+    ]
   ],
   "markdown": {
     "lineNumbers": true
