@@ -3,16 +3,16 @@ home: true
 heroText: 禅房花木
 tagline: 你简单，世界就对你简单。
 # 设置首页样式图片
-heroImage: /banner.jpg
-heroImageStyle: {
-  maxWidth: '100vw',
-  width: '100vw',
-  display: block,
-  # margin: '9rem auto 2rem',
-  background: '#fff',
-  borderRadius: '1rem',
-  padding: 0;
-}
+# heroImage: /banner.jpg
+# heroImageStyle: {
+#   maxWidth: '100vw',
+#   width: '100vw',
+#   display: block,
+#   # margin: '9rem auto 2rem',
+#   background: '#fff',
+#   borderRadius: '1rem',
+#   padding: 0;
+# }
 bgImageStyle: {
   height: '450px'
 }
