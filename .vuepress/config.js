@@ -207,7 +207,6 @@ module.exports = {
         recoverTime: 2000
       }
     ],
-    ["tabs"]
   ],
   "markdown": {
     "lineNumbers": true

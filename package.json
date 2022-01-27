@@ -18,8 +18,8 @@
     "vuepress-theme-reco": "1.6.10"
   },
   "description": "1",
-  "dependencies": {
-    "vue-tabs-component": "^1.5.0",
-    "vuepress-plugin-tabs": "^0.3.0"
-  }
+  "dependencies": {},
+  "main": "index.js",
+  "repository": "https://github.com/ddshiyu/ddshiyu.github.io.git",
+  "license": "MIT"
 }
