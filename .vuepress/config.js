@@ -48,11 +48,11 @@ module.exports = {
         "icon": "reco-message",
         link: '/docs/nav/message.md'
       },
-      // {
-      //   "text": "随笔",
-      //   "icon": "reco-suggestion",
-      //   link: '/docs/nav/message.md'
-      // },
+      {
+        "text": "记录",
+        "icon": "reco-suggestion",
+        link: '/docs/nav/photos.md'
+      },
       {
         "text": "关于",
         "icon": "reco-account",
