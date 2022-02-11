@@ -1,12 +1,18 @@
 ### front matter
 ---
 title: 烤鸭的做法
-date: '2019-08-08 08:00:00'
+date: 2019-08-08
 categories:
  - 
 tags:
  - 
 ---
+<style scoped>
+  img {
+    width: 49%;
+    display: inline-block;
+  }
+</style>
 keys:
  - '123456'
 publish: false
@@ -33,4 +39,8 @@ vuepress-plugin-flowchart // 流程图
 假若施加于某物体的外力为零，则该物体的运动速度不变。
 ::: right
 来自 [维基百科](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)
+:::
+
+::: tip
+This is a tip
 :::
