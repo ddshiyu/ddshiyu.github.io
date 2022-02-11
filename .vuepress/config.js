@@ -23,7 +23,6 @@ module.exports = {
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
     ],
-    ["script", { src: "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/indexjs.js", deffer: 'deffer' }]
   ],
   "theme": "reco",
   "themeConfig": {
