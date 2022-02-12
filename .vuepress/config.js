@@ -23,6 +23,9 @@ module.exports = {
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
     ],
+    [
+      "script", {src: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/tongji.js'}
+    ]
   ],
   "theme": "reco",
   "themeConfig": {
