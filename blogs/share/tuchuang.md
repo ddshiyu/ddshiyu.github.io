@@ -6,7 +6,7 @@ categories:
 tags:
  - 图床
 ---
-### 2022年2月11日更新
+## 2022年2月11日更新
 最近发现一个大神开发了一个github图床的网站，[地址](https://boomb.cn)，相比于picgo图床工具，可以在任何平台随意上传编辑，是一个不错的方案。
 
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/Snipaste_2022-02-11_14-39-14.png)

@@ -24,7 +24,7 @@ module.exports = {
       }
     ],
     [
-      "script", {src: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/tongji.js'}
+      "script", {src: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/file/tongji.js'}
     ]
   ],
   "theme": "reco",
@@ -67,7 +67,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/ddshiyu",
             "icon": "reco-github"
           }
         ]
@@ -212,6 +212,7 @@ module.exports = {
     ],
   ],
   "markdown": {
-    "lineNumbers": true
+    "lineNumbers": true,
+    plugins: ['task-lists']
   }
 }

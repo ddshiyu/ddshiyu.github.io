@@ -6,8 +6,27 @@ categories:
 tags:
 - 开篇
 ---
+<style scoped>
+  img {
+    width: 49%;
+    display: inline-block;
+  }
+</style>
+## 2022年2月16日更新
 
-**2022年1月15日更新**
+由于github pages国内访问的限制，把博客迁移到了腾讯云。在迁移之前也搜索了大量免费的、不限速的托管方法，但是大多数都被墙了，这些免费的托管网站譬如vercel、zeit刚开始可以使用，一旦火起来就会被盯上了，所以干脆就花钱买一个，也不贵，按量计费一个月估计就几块钱。
+
+可以使用命令上传代码
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/C53CCE5E-FCB5-4CF6-B606-CD9E25ACE9D7.png)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/96F9305E-F045-4A01-8C00-806685353C59.png)
+
+申请免费的https证书
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/DC558F4F-9A63-49F9-98BC-8EBF7D47A930.png)
+***
+
+## 2022年1月15日更新
 
 **我发誓这是我最后一次改主题了！**
 
