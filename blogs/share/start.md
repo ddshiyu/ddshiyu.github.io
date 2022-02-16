@@ -16,11 +16,40 @@ tags:
 
 由于github pages国内访问的限制，把博客迁移到了腾讯云。在迁移之前也搜索了大量免费的、不限速的托管方法，但是大多数都被墙了，这些免费的托管网站譬如vercel、zeit刚开始可以使用，一旦火起来就会被盯上了，所以干脆就花钱买一个，也不贵，按量计费一个月估计就几块钱。
 
-可以使用命令上传代码
+1. 打开[腾讯云](https://cloud.tencent.com)，搜索cloudbase，然后选择免费开通，再创建一个环境。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/C53CCE5E-FCB5-4CF6-B606-CD9E25ACE9D7.png)
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/96F9305E-F045-4A01-8C00-806685353C59.png)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-33-31.jpg)
 
+2. 环境可以选择一个空模板，也可以选择对应你需要的模板。
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-02.jpg)
+
+3. 创建玩模板之后，就可以看到生成了一个环境。
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-39.jpg)
+
+4. 点击进入到环境控制台，选择静态网站托管，点击创建。
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-58.jpg)
+
+5. 创建完之后就可以在你的本地上传代码了。
+
+**安装 CLI**
+```
+npm install -g @cloudbase/cli@latest
+```
+**登录**
+```
+cloudbase login
+```
+**初始化一个应用**
+```
+cloudbase init
+```
+**部署应用**
+```
+cloudbase framework deploy
+```
 申请免费的https证书
 
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/DC558F4F-9A63-49F9-98BC-8EBF7D47A930.png)
