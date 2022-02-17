@@ -13,7 +13,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png"
       }
     ],
     [
@@ -112,13 +112,16 @@ module.exports = {
         link: 'http://www.dracarys.top'
       }
     ],
-    "logo": "/logo.png",
+    "logo": "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "jiandong",
     "authorAvatar": "/mine.jpg",
     "record": "禅房花木",
+    "recordLink": 'https://jdqiong.cn',
+    "cyberSecurityRecord": "粤ICP备20061533号-1",
+    "cyberSecurityLink": "http://beian.miit.gov.cn/",
     "startYear": "2021"
   },
   plugins: [
@@ -203,9 +206,9 @@ module.exports = {
     [
       "dynamic-title",
       {
-        showIcon: "/favicon.ico",
+        showIcon: "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
         showText: "(/≧▽≦/)咦！又好了！",
-        hideIcon: "/failure.ico",
+        hideIcon: "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
         hideText: "(●—●)喔哟，崩溃啦！",
         recoverTime: 2000
       }

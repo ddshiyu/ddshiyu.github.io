@@ -50,13 +50,14 @@ cloudbase init
 ```
 cloudbase framework deploy
 ```
-6. 申请免费的https证书
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/DC558F4F-9A63-49F9-98BC-8EBF7D47A930.png)
-
-7. 自定义域名
+6. 自定义域名
 
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074551358.png)
+
+7. 申请免费的https证书
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/DC558F4F-9A63-49F9-98BC-8EBF7D47A930.png)
 
 ***
 
