@@ -62,7 +62,7 @@ tags:
 总羡慕别人光鲜亮丽，不如自己研究研究怎么赚钱；
 收藏了一堆健身视频，不如每天好好锻炼半小时；
 相信我，你想要的快乐，永远有更高级的替代品。
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-bfdcd5ec956d8b43efe246be47902882_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-bfdcd5ec956d8b43efe246be47902882_r.jpg)
 
 ## 03 情绪极简，停止内耗。
 
@@ -88,7 +88,7 @@ tags:
 生活是场没有硝烟的战争，成长就是学会了接受、改变、放下。
 情绪极简的最高境界，是顺其自然。
 物来顺应，未来不忧，内耗才会真正停止。
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-f5ce92fa6fb373fd7869298c102838a4_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-f5ce92fa6fb373fd7869298c102838a4_r.jpg)
 
 ## 04 财务极简，掌控生活。
 
@@ -110,7 +110,7 @@ tags:
 到了一定年纪，挣钱如针掘地，开销如水浇沙。
 财务极简的终极要义，是一定要把钱用在最重要的地方。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-149f3954d0d07449d6601e5de577d6cb_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-149f3954d0d07449d6601e5de577d6cb_r.jpg)
 ## 05 关系极简，净化圈子。
 
 
@@ -129,7 +129,7 @@ tags:
 世界纷纷扰扰，跟自己相处，是每个人必经的修行。
 无论是看一本书、听一首歌，还是想一件事、发一会呆。
 一个人的时候，最安静，也最自由。
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-70113c8c4f1f5772e464140df1d01a66_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-70113c8c4f1f5772e464140df1d01a66_r.jpg)
 
 ## 06目标极简，重新出发。
 
@@ -148,7 +148,7 @@ tags:
 每天留出一段特定时间，用来完成特定的活动，比如下班后、睡前。
 一旦开始，就不要让其他无关紧要的事情打扰。
 规律和习惯，会让一切都变得更简单。
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-f6f61b0d6a63a0e4a9c2ac34f55b47cc_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-f6f61b0d6a63a0e4a9c2ac34f55b47cc_r.jpg)
 
 ## 07表达极简，修炼自我。
 
@@ -160,7 +160,7 @@ tags:
 不闲聊，不妄议，别轻下判断，别交浅言深。
 当话开始变少，你会发现，生活反而越变越好。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-2d3b61984910f7575f10a60ed8c934fd_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-2d3b61984910f7575f10a60ed8c934fd_r.jpg)
 ## 08心境极简，学会看淡。
 
 
@@ -171,7 +171,7 @@ tags:
 把心清空，才能腾出手来拥抱明天。
 你简单了，生活就会变得简单。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-5af2d80e8d6f6a9529306d68fcb259e7_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-5af2d80e8d6f6a9529306d68fcb259e7_r.jpg)
 ## 09极简，是一种习惯。
 
 
@@ -184,7 +184,7 @@ tags:
 生活中的很多不快乐，其实都是人自己施加的枷锁。
 过去的2021年，我们已经背负了太多，也辛苦了太久。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/v2-e2f0b26972abe56eaa7c078581a6f7ef_r.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-e2f0b26972abe56eaa7c078581a6f7ef_r.jpg)
 
 
 极简，是一场心灵的救赎，也是对自己最好的善待。

@@ -18,19 +18,19 @@ tags:
 
 1. 打开[腾讯云](https://cloud.tencent.com)，搜索cloudbase，然后选择免费开通，再创建一个环境。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-33-31.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074522153.png)
 
 2. 环境可以选择一个空模板，也可以选择对应你需要的模板。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-02.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074526323.png)
 
 3. 创建玩模板之后，就可以看到生成了一个环境。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-39.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074536215.png)
 
 4. 点击进入到环境控制台，选择静态网站托管，点击创建。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/Snipaste_2022-02-16_22-34-58.jpg)
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074547942.png)
 
 5. 创建完之后就可以在你的本地上传代码了。
 
@@ -50,9 +50,14 @@ cloudbase init
 ```
 cloudbase framework deploy
 ```
-申请免费的https证书
+6. 申请免费的https证书
 
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/DC558F4F-9A63-49F9-98BC-8EBF7D47A930.png)
+
+7. 自定义域名
+
+![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/1645074551358.png)
+
 ***
 
 ## 2022年1月15日更新

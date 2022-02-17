@@ -193,8 +193,8 @@ module.exports = {
           {
             name: `I'm Yours`,
             artist: 'Jason Mraz',
-            url: `https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/I'm%20Yours%20(Album%20Version)_Jason%20Mraz.mp3`,
-            cover: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/2591641954357_.pic.jpg'
+            url: `https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/songs/I'm Yours (Album Version)_Jason Mraz.mp3`,
+            cover: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/2591641954357_.pic.jpg'
           }
         ],
         autoShrink: true
