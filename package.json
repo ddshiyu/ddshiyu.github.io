@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
-    "dev": "vuepress dev --temp .temp --open --host \"localhost\"",
+    "dev": "vuepress dev --temp .temp --open --host \"192.168.2.162\"",
     "build": "vuepress build .",
     "de": "./deploy.sh",
     "pu": "./push.sh"

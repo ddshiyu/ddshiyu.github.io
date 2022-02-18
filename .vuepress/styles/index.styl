@@ -5,3 +5,16 @@
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
+img {
+  image-rendering: -moz-crisp-edges; /* Firefox */
+  image-rendering: -o-crisp-edges; /* Opera */
+  image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming) */
+  image-rendering: crisp-edges;
+  -ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */
+}
+@media screen and (max-width:420px) {
+  .page img {
+    width: 100%;
+    display: inline-block;
+  }
+}

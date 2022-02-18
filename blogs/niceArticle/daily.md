@@ -62,6 +62,7 @@ tags:
 总羡慕别人光鲜亮丽，不如自己研究研究怎么赚钱；
 收藏了一堆健身视频，不如每天好好锻炼半小时；
 相信我，你想要的快乐，永远有更高级的替代品。
+
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-bfdcd5ec956d8b43efe246be47902882_r.jpg)
 
 ## 03 情绪极简，停止内耗。
@@ -88,6 +89,7 @@ tags:
 生活是场没有硝烟的战争，成长就是学会了接受、改变、放下。
 情绪极简的最高境界，是顺其自然。
 物来顺应，未来不忧，内耗才会真正停止。
+
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-f5ce92fa6fb373fd7869298c102838a4_r.jpg)
 
 ## 04 财务极简，掌控生活。
@@ -129,6 +131,7 @@ tags:
 世界纷纷扰扰，跟自己相处，是每个人必经的修行。
 无论是看一本书、听一首歌，还是想一件事、发一会呆。
 一个人的时候，最安静，也最自由。
+
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-70113c8c4f1f5772e464140df1d01a66_r.jpg)
 
 ## 06目标极简，重新出发。
@@ -148,6 +151,7 @@ tags:
 每天留出一段特定时间，用来完成特定的活动，比如下班后、睡前。
 一旦开始，就不要让其他无关紧要的事情打扰。
 规律和习惯，会让一切都变得更简单。
+
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-f6f61b0d6a63a0e4a9c2ac34f55b47cc_r.jpg)
 
 ## 07表达极简，修炼自我。

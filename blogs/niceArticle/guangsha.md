@@ -140,6 +140,7 @@ tags:
 老王这样年富力强，德才兼备的年轻人，每个月累死累活，交税1w，还贷2.6w，过得不如条狗。
 
 而上海王阿姨，家里N套房，啥也不干每月收租7-8w，什么税都不交，连吃面都有人喂。
+
 ![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/v2-b426d397420cccfba2016e78deedd46d_r.jpg)
 
 
