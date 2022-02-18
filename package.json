@@ -16,6 +16,9 @@
     "vuepress": "1.8.2",
     "vuepress-plugin-cursor-effects": "^1.0.2",
     "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-plugin-rss-feed": "^1.0.1",
     "vuepress-theme-reco": "1.6.10"
   },
   "description": "1",

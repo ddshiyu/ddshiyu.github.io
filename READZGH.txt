@@ -13,7 +13,7 @@ tags:
   }
 </style>
 keys:
- - '123456'
+ - '123456' md5
 publish: false
 ---
 表格
@@ -32,7 +32,7 @@ https://list.yinxiang.com/markdown/eef42447-db3f-48ee-827b-1bb34c03eb83.php
 
 ### Markdown 插件
 vuepress-plugin-demo-block // 代码块，可以编译代码
-vuepress-plugin-element-tabs // tab页
+vuepress-plugin-tabs // tab页
 vuepress-plugin-flowchart // 流程图
 
 ::: theorem 牛顿第一定律

@@ -69,17 +69,21 @@ module.exports = {
             "text": "GitHub",
             "link": "https://github.com/ddshiyu",
             "icon": "reco-github"
+          },
+          {
+            "text": "rss",
+            "link": "https://jdqiong.cn/rss.xml",
+            "icon": "reco-bokeyuan"
           }
         ]
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
+      "/blogs/read/": [
         "",
-        "theme",
-        "plugin",
-        "api"
-      ]
+        "first",
+        "second",
+      ],
     },
     "type": "blog",
     "blogConfig": {
@@ -185,14 +189,6 @@ module.exports = {
     [
       "@vuepress-reco/vuepress-plugin-bgm-player",{
         audios: [
-          // 本地文件示例
-          // {
-          //   name: '장가갈 수 있을까',
-          //   artist: '咖啡少年',
-          //   url: '/bgm/1.mp3',
-          //   cover: '/bgm/1.jpg'
-          // },
-          // 网络文件示例
           {
             name: `I'm Yours`,
             artist: 'Jason Mraz',
@@ -212,6 +208,18 @@ module.exports = {
         hideText: "(●—●)喔哟，崩溃啦！",
         recoverTime: 2000
       }
+    ],
+    ['permalink-pinyin'],
+    ['one-click-copy'],
+    [
+      'rss-feed',
+      {
+        username: 'jiandong',
+        hostname: 'https://jdqiong.cn',
+        selector: '.content__post', // extract content to content:encoded
+        count: 10,
+        filter: (page) => /^blog/.test(page.relativePath),
+      },
     ],
   ],
   "markdown": {
