@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
-    "dev": "vuepress dev --temp .temp --open --host \"localhost\"",
+    "dev": "vuepress dev --temp .temp --open --host \"192.168.2.144\"",
     "build": "vuepress build .",
     "de": "./deploy.sh",
     "pu": "./push.sh"
@@ -11,7 +11,6 @@
   "devDependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.0",
-    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "markdown-it-task-lists": "^2.1.1",
     "vuepress": "1.8.2",
     "vuepress-plugin-cursor-effects": "^1.0.2",
