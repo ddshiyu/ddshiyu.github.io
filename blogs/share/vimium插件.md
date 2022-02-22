@@ -1,6 +1,6 @@
 ---
 title: 脱离鼠标的浏览器插件
-date: 2022-2-8
+date: 2022-02-08
 categories:
  - 分享
 tags:
