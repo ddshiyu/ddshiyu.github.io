@@ -121,7 +121,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "jiandong",
-    "authorAvatar": "/mine.jpg",
+    "authorAvatar": "https://pic.imgdb.cn/item/6215e3122ab3f51d915d8f53.jpg",
     "record": "禅房花木",
     "recordLink": 'https://jdqiong.cn',
     "cyberSecurityRecord": "粤ICP备20061533号-1",
@@ -176,7 +176,7 @@ module.exports = {
             name: `I'm Yours`,
             artist: 'Jason Mraz',
             url: `https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/songs/I'm Yours (Album Version)_Jason Mraz.mp3`,
-            cover: 'https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/2591641954357_.pic.jpg'
+            cover: 'https://cdn.jdqiong.cn/2591641954357_.pic.jpg'
           }
         ],
         autoShrink: true

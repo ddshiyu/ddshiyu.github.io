@@ -17,4 +17,4 @@ publish: false
 ## 2022年2月17日
 * 农村已经凋敝，马路上都看不到一个人
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/doc/1645089645493.jpeg)
+![](https://cdn.jdqiong.cn/微信图片_20220222133642.jpg)
