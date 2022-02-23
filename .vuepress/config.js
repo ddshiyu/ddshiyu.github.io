@@ -106,15 +106,27 @@ module.exports = {
       {
         "title": "vuepress-theme-reco",
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "thumbnail": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "logo": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
       },
       {
-        title: '半落沙痕',
-        desc: 'Everything Wins！',
-        thumbnail: 'http://img.dracarys.top/avatar.jpg',
-        link: 'http://www.dracarys.top'
-      }
+        title: '小孙同学',
+        desc: '一个理性的浪漫主义者！',
+        logo: 'https://cdn.jsdelivr.net/gh/sun0225SUN/photos/img/20210723133309.jpg',
+        link: 'https://sunguoqi.com'
+      },
+      {
+        title: 'itsNekoDeng',
+        desc: '十万伏特皮卡丘，梦想是世界和平，想要发光发热',
+        logo: 'https://dyfa.top/medias/avatar.jpg',
+        link: 'https://dyfa.top'
+      },
+      {
+        title: 'Sianx\'s Blog',
+        desc: '总之岁月漫长, 然而值得等待。',
+        logo: ' https://unpkg.zhimg.com/picture-sianx@1.0.0/Blog/logo.png',
+        link: ' https://sianx.com'
+      },
     ],
     "logo": "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
     "search": true,
