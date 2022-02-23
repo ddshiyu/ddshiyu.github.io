@@ -1,20 +1,22 @@
 ---
 home: true
-heroText: 禅房花木
-tagline: 你简单，世界就对你简单。
+# heroText: 禅房花木
+# tagline: 你简单，世界就对你简单。
 # 设置首页样式图片
 # heroImage: /banner.jpg
-# heroImageStyle: {
-#   maxWidth: '100vw',
-#   width: '100vw',
-#   display: block,
-#   # margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-#   padding: 0;
-# }
+heroImageStyle: {
+  maxWidth: '100vw',
+  width: '100vw',
+  height: '100vh',
+  display: block,
+  # margin: '9rem auto 2rem',
+  background: '#fff',
+  padding: 0;
+}
 bgImageStyle: {
-  height: '450px'
+  background: 'url(/banner.jpg) center center / cover',
+  height: '650px',
+  color: '#fff',
 }
 isShowTitleInHome: false
 actionText: Guide

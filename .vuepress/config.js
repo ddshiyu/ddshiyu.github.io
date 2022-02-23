@@ -206,6 +206,7 @@ module.exports = {
     ],
     ['permalink-pinyin'],
     ['one-click-copy'],
+    ['@vuepress/pwa'],
     [
       'rss-feed',
       {
