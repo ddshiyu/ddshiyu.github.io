@@ -54,11 +54,12 @@ This is a tip
 sticky: 文章排序
 
 源码修改过的地方：
-1、又拍云图标(Footer) 
+1、又拍云图标(Footer)
+<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="http://blog.jdqiong.cn/logo6.png"align="absmiddle" width="59px" height="30px" style="transform: translateY(-2px);"/></a><span style="margin:0;color:#3eaf7c;">提供加速服务</span>
 2、友链图标(FriendLink)
 https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
 3、首页banner(HomeBlog)
-`https://cdn.jdqiong.cn/banner/banner${Math.ceil(Math.random() * 15)}.jpg`
+`https://cdn.jdqiong.cn/banner/banner${Math.ceil(Math.random() * 20)}.jpg`
 
 
 波浪网https://svgwave.in/
