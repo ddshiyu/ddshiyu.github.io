@@ -52,3 +52,13 @@ This is a tip
 替换友链图标的第三方链接 https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
 
 sticky: 文章排序
+
+源码修改过的地方：
+1、又拍云图标(Footer)
+2、友链图标(FriendLink)
+https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
+3、首页banner(HomeBlog)
+`https://cdn.jdqiong.cn/banner/banner${Math.ceil(Math.random() * 15)}.jpg`
+
+
+波浪网https://svgwave.in/

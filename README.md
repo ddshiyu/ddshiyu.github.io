@@ -1,7 +1,7 @@
 ---
 home: true
-# heroText: 禅房花木
-# tagline: 你简单，世界就对你简单。
+heroText: 禅房花木
+tagline: 你简单，世界就对你简单。
 # 设置首页样式图片
 # heroImage: /banner.jpg
 heroImageStyle: {
@@ -14,8 +14,9 @@ heroImageStyle: {
   padding: 0;
 }
 bgImageStyle: {
-  background: 'url(/banner.jpg) center center / cover',
-  height: '650px',
+  background-position: 'center center',
+  background-size: 'cover',
+  height: '450px',
   color: '#fff',
 }
 isShowTitleInHome: false

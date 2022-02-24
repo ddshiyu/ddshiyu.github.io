@@ -6,10 +6,11 @@ categories:
 tags:
  - 插件
 ---
-
-分享一个浏览器插件vimium，一款可以摆脱鼠标的插件。
-
+:::tip
 之前在看别人玩电脑时，只需要用键盘，不需要用鼠标，当时觉得哇，好酷，现在你也可以！
+:::
+<!-- more -->
+分享一个浏览器插件vimium，一款可以摆脱鼠标的插件。
 
 [下载链接](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=chrome-ntp-icon)，如果不能上网的话[这里](https://huajiakeji.com/productivity/2014-12/325.html)也可以下载。
 ## 操作
