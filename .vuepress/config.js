@@ -104,10 +104,16 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "logo": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        title: '阮一峰',
+        desc: '',
+        logo: '',
+        link: 'https://www.ruanyifeng.com/'
+      },
+      {
+        title: '张鑫旭',
+        desc: '',
+        logo: '',
+        link: 'https://www.zhangxinxu.com/'
       },
       {
         title: '小孙同学',

@@ -54,7 +54,7 @@ This is a tip
 sticky: 文章排序
 
 源码修改过的地方：
-1、又拍云图标(Footer)
+1、又拍云图标(Footer) 
 2、友链图标(FriendLink)
 https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
 3、首页banner(HomeBlog)
@@ -62,3 +62,5 @@ https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ec
 
 
 波浪网https://svgwave.in/
+
+又拍云操作员密码 hOSQpiRocZzS75Jzg2wq7AAg9v1fWMrq
