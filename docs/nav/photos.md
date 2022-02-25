@@ -18,3 +18,8 @@ publish: false
 * 农村已经凋敝，马路上都看不到一个人
 
 ![](https://cdn.jdqiong.cn/微信图片_20220222133642.jpg)
+
+## 2022年2月25日
+* 老头环已发售，抖M的胜利，准备受苦
+
+![](https://cdn.jdqiong.cn/Snipaste_2022-02-25_11-27-52.png)

@@ -30,11 +30,12 @@ module.exports = {
   "theme": "reco",
   "themeConfig": {
     subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
-    mode: 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
+    mode: 'dark', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
     valineConfig: {
       appId: 'xaGXSjewuzULHEOanpcFJNMA-gzGzoHsz',// your appId
       appKey: 'IIMQuME3Ie8ryBzFObAabjs8', // your appKey
     },
+    codeTheme: 'funky',
     "nav": [
       {
         "text": "主页",
@@ -212,7 +213,13 @@ module.exports = {
     ],
     ['permalink-pinyin'],
     ['one-click-copy'],
-    ['@vuepress/pwa'],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: {
+        message: '发现新内容可用',
+        buttonText: '刷新'
+      }
+    }],
     [
       'rss-feed',
       {

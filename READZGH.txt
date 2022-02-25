@@ -60,7 +60,8 @@ sticky: 文章排序
 https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/d41d8cd98f00b204e9800998ecf8427e.jpg
 3、首页banner(HomeBlog)
 `https://cdn.jdqiong.cn/banner/banner${Math.ceil(Math.random() * 20)}.jpg`
-
+4、code样式（styles/code.styl）
+color lighten($textColor, 20%)（原）
 
 波浪网https://svgwave.in/
 
