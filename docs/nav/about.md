@@ -49,6 +49,6 @@ publish: false
 
 * **联系我**
 
-![](https://cdn.jdqiong.cn/微信图片_20220225151403.jpg)
+![](https://blog.jdqiong.cn/微信图片_20220225151403.jpg)
 
 邮箱：925843934@qq.com
