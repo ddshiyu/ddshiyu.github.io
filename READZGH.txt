@@ -5,6 +5,7 @@ categories:
  - 
 tags:
  - 
+publish: true
 ---
 <style scoped>
   img {
@@ -14,7 +15,6 @@ tags:
 </style>
 keys:
  - '123456' md5
-publish: false
 ---
 :::tip
 哈哈哈

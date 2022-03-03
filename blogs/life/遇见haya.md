@@ -5,6 +5,7 @@ categories:
  - 生活
 tags:
  - 音乐会
+publish: true
 ---
 <style scoped>
   img {
