@@ -20,4 +20,4 @@ publish: false
 ## 2022年2月8日
 * 第一次听音乐会
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/20211220112209.jpg)
+![](https://blog.jdqiong.cn/202203041422088.png)

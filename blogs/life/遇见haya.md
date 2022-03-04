@@ -39,8 +39,8 @@ publish: true
 进入剧院的被告知的第一件事就是不能拍照录视频，what?有点意外，那我答应了别人要录制不就泡汤了。
 还遇到两个志同道合的朋友，不虚此行。
 
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211220112209.jpg)
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211220112206.jpg)
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211220112155.jpg)
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211220112149.jpg)
-![](https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211220112213.jpg)
+![](https://blog.jdqiong.cn/202203041422088.png)
+![](https://blog.jdqiong.cn/202203041422767.png)
+![](https://blog.jdqiong.cn/202203041422286.png)
+![](https://blog.jdqiong.cn/202203041423174.png)
+![](https://blog.jdqiong.cn/202203041423178.png)
