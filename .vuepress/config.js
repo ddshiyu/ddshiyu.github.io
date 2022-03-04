@@ -140,7 +140,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "jiandong",
-    "authorAvatar": "https://blog.jdqiong.cn/8.jpg",
+    "authorAvatar": "https://blog.jdqiong.cn/202203041203297.jpg",
     "record": "禅房花木",
     "recordLink": 'https://jdqiong.cn',
     "cyberSecurityRecord": "粤ICP备20061533号-1",
