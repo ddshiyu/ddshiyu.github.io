@@ -13,7 +13,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png"
+        "href": "https://blog.jdqiong.cn/weblogo.png"
       }
     ],
     [
@@ -135,7 +135,7 @@ module.exports = {
         link: ' https://sianx.com'
       },
     ],
-    "logo": "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
+    "logo": "https://blog.jdqiong.cn/weblogo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
@@ -191,9 +191,9 @@ module.exports = {
     [
       "dynamic-title",
       {
-        showIcon: "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
+        showIcon: "https://blog.jdqiong.cn/weblogo.png",
         showText: "(/≧▽≦/)咦！又好了！",
-        hideIcon: "https://cdn.jsdelivr.net/gh/ddshiyu/pic@main/pictures/%E5%9B%BE%E5%B1%82%202.png",
+        hideIcon: "https://blog.jdqiong.cn/weblogo.png",
         hideText: "(●—●)喔哟，崩溃啦！",
         recoverTime: 2000
       }
