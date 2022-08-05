@@ -32,8 +32,8 @@ module.exports = {
     subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     mode: 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
     valineConfig: {
-      appId: 'xaGXSjewuzULHEOanpcFJNMA-gzGzoHsz',// your appId
-      appKey: 'IIMQuME3Ie8ryBzFObAabjs8', // your appKey
+      appId: 'W17Uh61KSwIixePrQpvyWKqt-gzGzoHsz',// your appId
+      appKey: 'CMMcsJ5RpCSxyw7oIpdtjpwm', // your appKey
     },
     codeTheme: 'funky',
     "nav": [
@@ -73,7 +73,7 @@ module.exports = {
           },
           {
             "text": "rss",
-            "link": "https://jdqiong.cn/rss.xml",
+            "link": "https://read.jdqiong.cn/rss.xml",
             "icon": "reco-bokeyuan"
           }
         ]
@@ -204,7 +204,7 @@ module.exports = {
       'rss-feed',
       {
         username: 'jiandong',
-        hostname: 'https://jdqiong.cn',
+        hostname: 'https://read.jdqiong.cn',
         selector: '.content__post', // extract content to content:encoded
         count: 10,
         filter: (page) => /^blog/.test(page.relativePath),
