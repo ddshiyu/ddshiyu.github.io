@@ -194,7 +194,7 @@ module.exports = {
         showIcon: "https://blog.jdqiong.cn/weblogo.png",
         showText: "(/≧▽≦/)咦！又好了哦！",
         hideIcon: "https://blog.jdqiong.cn/weblogo.png",
-        hideText: "(●—●)喔哟，崩溃啦！",
+        hideText: "(●—●)喔哟，崩溃了啦！",
         recoverTime: 2000
       }
     ],
