@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vuepress dev --temp .temp --open --host \"localhost\"",
     "build": "vuepress build .",
-    "de": "./deploy.sh",
+    "de": "sh ./deploy.sh",
     "pu": "vuepress build . && qshell qupload upload.conf"
   },
   "devDependencies": {
