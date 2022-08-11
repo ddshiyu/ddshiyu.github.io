@@ -30,7 +30,7 @@ module.exports = {
   "theme": "reco",
   "themeConfig": {
     subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
-    mode: 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
+    mode: 'dark', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
     valineConfig: {
       appId: 'W17Uh61KSwIixePrQpvyWKqt-gzGzoHsz',// your appId
       appKey: 'CMMcsJ5RpCSxyw7oIpdtjpwm', // your appKey
