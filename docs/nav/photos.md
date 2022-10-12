@@ -1,5 +1,5 @@
 ---
-title: 记录
+title: 生活
 date: 2021-05-29
 publish: false
 ---

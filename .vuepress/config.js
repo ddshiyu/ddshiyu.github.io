@@ -54,8 +54,18 @@ module.exports = {
       },
       {
         "text": "记录",
-        "icon": "reco-suggestion",
-        link: '/docs/nav/photos.md'
+        "items": [
+          {
+            "text": "生活",
+            link: '/docs/nav/photos.md',
+            "icon": "reco-npm"
+          },
+          {
+            "text": "游戏",
+            "link": "/docs/nav/games.md",
+            "icon": "reco-other"
+          }
+        ]
       },
       {
         "text": "关于",
@@ -64,7 +74,6 @@ module.exports = {
       },
       {
         "text": "Contact",
-        "icon": "reco-message",
         "items": [
           {
             "text": "GitHub",
