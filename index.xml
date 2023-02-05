@@ -5,7 +5,7 @@
     <link>http://ddshiyu.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Sun, 25 Oct 2015 08:36:54 -0700</lastBuildDate><atom:link href="http://ddshiyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
@@ -13,7 +13,7 @@
       <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
       
       <guid>http://ddshiyu.github.io/post/first/</guid>
-      <description>Hello Hugo aaa bbb ccc </description>
+      <description>Hello Hugo aaa bbb ccc 哈哈哈哈哈</description>
     </item>
     
   </channel>
