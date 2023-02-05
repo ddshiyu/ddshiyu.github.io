@@ -6,9 +6,9 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="" />
+  <meta name="author" content="Joway Wang" />
   <meta property="og:url" content="http://ddshiyu.github.io/en/posts/migrate-from-jekyll/" />
-  <link rel="canonical" href="http://ddshiyu.github.io/en/posts/migrate-from-jekyll/" /><link rel="alternate" type="application/atom+xml" href="http://ddshiyu.github.io/index.xml" title="My New Hugo Site">
+  <link rel="canonical" href="http://ddshiyu.github.io/en/posts/migrate-from-jekyll/" /><link rel="alternate" type="application/atom+xml" href="http://ddshiyu.github.io/index.xml" title="Example YinYong Blog">
 
   <script type="application/ld+json">
   {
@@ -18,16 +18,16 @@
            "@type": "WebPage",
            "@id": "http:\/\/ddshiyu.github.io\/"
       },
-      "articleSection" : "en",
+      "articleSection" : "posts",
       "name" : "Migrate to Hugo from Jekyll",
       "headline" : "Migrate to Hugo from Jekyll",
       "description" : "Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like\n▾ \u0026lt;root\u0026gt;\/ ▾ images\/ logo.png should become\n▾ \u0026lt;root\u0026gt;\/ ▾ static\/ ▾ images\/ logo.png Additionally, you\u0026rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.",
       "inLanguage" : "en-US",
-      "author" : "",
-      "creator" : "",
-      "publisher": "",
-      "accountablePerson" : "",
-      "copyrightHolder" : "",
+      "author" : "Joway Wang",
+      "creator" : "Joway Wang",
+      "publisher": "Joway Wang",
+      "accountablePerson" : "Joway Wang",
+      "copyrightHolder" : "Joway Wang",
       "copyrightYear" : "2014",
       "datePublished": "2014-03-10 00:00:00 \u002b0000 UTC",
       "dateModified" : "2014-03-10 00:00:00 \u002b0000 UTC",
@@ -44,7 +44,7 @@
   <meta name="description" content="Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static." />
-  <meta property="og:locale" content="cn" /><meta property="og:image" content="" />
+  <meta property="og:locale" content="en-us" /><meta property="og:image" content="" />
   
 
   
@@ -57,7 +57,7 @@
   
 
   <link href="/index.xml" rel="alternate" type="application/rss+xml"
-    title="My New Hugo Site">
+    title="Example YinYong Blog">
   
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Bungee+Shade" rel="stylesheet">
@@ -70,24 +70,36 @@
 
 
 <body>
-  <article class="post " id="article">
+  <article class="post English" id="article">
     <div class="row">
       <div class="col-xs-12">
         <div class="site-header">
           
 <header>
   <div class="header-title">
-    <a href="/"
-      ></a
+    <a href="/en/"
+      >Joway Wang</a
     >
   </div>
   <div class="header-subtitle"></div>
 </header>
 <div class="row end-md center-xs header-items">
   
+  <div class="header-item">
+    <a href="/index.xml" target="_blank">RSS</a>
+  </div>
+  
+  <div class="header-item">
+    <a href="https://joway.io" target="_blank">About</a>
+  </div>
+  
 </div>
 <div class="row end-xs">
-   
+  
+  <div class="lang-switch col-xs-3 col-xs-offset-9">
+    <a href="/cn/">Chinese</a>
+  </div>
+    
 </div>
 <div class="header-line"></div>
 
@@ -104,6 +116,10 @@
               
             </div>
             <div class="col-xs-6">
+              
+              <div class="post-author">
+                <a target="_blank" href="https://joway.io/">@Joway Wang</a>
+              </div>
               
             </div>
           </div>
@@ -267,6 +283,29 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
           
           
           <div style="height: 50px;"></div>
+          
+          <div class="post-comments">
+            <div id="disqus_thread"></div>
+<script>
+  window.addEventListener("load", () => {
+    (function() {
+      
+      var d = document,
+        s = d.createElement("script");
+      s.src = "https://joway.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  });
+</script>
+<noscript
+  >Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript"
+    >comments powered by Disqus.</a
+  ></noscript
+>
+
+          </div>
           
         
 
