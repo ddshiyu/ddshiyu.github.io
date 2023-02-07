@@ -7,7 +7,7 @@ publishdir = "ddshiyu.github.io"
 
 [author]
   name = "wolffy"
-  homepage = "https://joway.io/"
+  homepage = "https://read.jdqiong.cn/homepage/"
 
 [languages]
   [languages.en]
@@ -30,4 +30,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://read.jdqiong.cn/homepage/"
