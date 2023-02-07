@@ -1,0 +1,11 @@
+hugo server --theme=hyde --buildDrafts
+hugo --theme=yinyang --baseUrl="http://ddshiyu.github.io/"
+ hugo new about.md
+ hugo new post/first.md
+ 
+ 
+baseURL = 'http://ddshiyu.github.io/'
+languageCode = 'cn'
+title = 'My New Hugo Site'
+theme = "yinyang"
+publishdir = "ddshiyu.github.io"

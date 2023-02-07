@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'luoxia';
+  src: url('./LXGWWenKaiMono-Bold.ttf') format('truetype'),
+}
+body {
+  font-family: 'luoxia';
+}

@@ -1,0 +1,33 @@
+baseURL = 'http://ddshiyu.github.io/'
+languageCode = "en-us"
+title = "wolffy's Blog"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+publishdir = "ddshiyu.github.io"
+
+[author]
+  name = "wolffy"
+  homepage = "https://joway.io/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.cn]
+    contentDir = "content/cn"
+    languageName = "Chinese"
+    weight = 1
+
+[params]
+disqus = "joway" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "About"
+link = "https://joway.io"
