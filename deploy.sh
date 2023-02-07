@@ -1,5 +1,5 @@
 hugo
-cd public
+cd ddshiyu.github.io
 git init
 git add -A
 git commit -m 'deploy'
