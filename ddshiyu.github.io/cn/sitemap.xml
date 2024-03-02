@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ddshiyu.github.io/categories/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/posts/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/tags/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,13 +54,37 @@
                 href="http://ddshiyu.github.io/"
                 />
   </url><url>
+    <loc>http://ddshiyu.github.io/tags/%E6%A2%A6%E5%A2%83/</loc>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/posts/%E6%A2%A6%E5%A2%83%E4%B8%80/</loc>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/tags/%E5%90%8C%E4%BA%8B/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/posts/%E7%86%9F%E6%82%89%E5%8F%88%E4%B8%8D%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8C%E4%BA%8B/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/tags/%E5%8F%A4%E4%BA%BA/</loc>
+    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/categories/%E5%A5%BD%E6%96%87/</loc>
+    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/posts/%E5%B0%8F%E5%84%BF%E8%AF%AD/</loc>
+    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://ddshiyu.github.io/posts/%E6%97%A0%E7%A9%B7%E7%9A%84%E6%AC%B2%E6%9C%9B/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/tags/%E6%AC%B2%E6%9C%9B/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ddshiyu.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/tags/%E8%B0%83%E7%A0%94/</loc>
@@ -74,9 +98,6 @@
   </url><url>
     <loc>http://ddshiyu.github.io/posts/%E6%9C%8B%E5%8F%8B/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ddshiyu.github.io/categories/%E5%A5%BD%E6%96%87/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/posts/%E6%9E%81%E7%AE%80/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
@@ -121,9 +142,6 @@
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/tags/%E5%A4%B1%E7%9C%A0/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ddshiyu.github.io/categories/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
