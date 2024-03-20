@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ddshiyu.github.io/categories/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/posts/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/tags/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>http://ddshiyu.github.io/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,6 +53,15 @@
                 hreflang="cn"
                 href="http://ddshiyu.github.io/"
                 />
+  </url><url>
+    <loc>http://ddshiyu.github.io/posts/%E5%86%85%E5%AE%B9%E8%AE%A1%E5%88%92/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/categories/%E5%8F%91%E7%8E%B0%E8%87%AA%E6%88%91/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ddshiyu.github.io/tags/%E5%A4%A7%E7%BA%B2/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ddshiyu.github.io/tags/%E6%A2%A6%E5%A2%83/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
