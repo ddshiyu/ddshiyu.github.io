@@ -1,4 +1,4 @@
-baseURL = 'http://ddshiyu.github.io/'
+baseURL = 'https://ddshiyu.github.io/'
 languageCode = "en-us"
 title = "wolffy's Blog"
 theme = "yinyang"
@@ -7,7 +7,7 @@ publishdir = "ddshiyu.github.io"
 
 [author]
   name = "wolffy"
-  homepage = "https://read.jdqiong.cn/homepage/"
+  homepage = "https://ddshiyu.github.io/homepage/"
 
 [languages]
   [languages.en]
@@ -30,4 +30,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://read.jdqiong.cn/homepage/"
+link = "https://ddshiyu.github.io/homepage/"
